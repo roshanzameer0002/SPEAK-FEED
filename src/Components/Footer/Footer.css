@@ -1,0 +1,30 @@
+.created-by {
+  margin: 1rem 0;
+  font-size: 1.3rem;
+  color: aliceblue;
+}
+.namecol {
+  color:antiquewhite;
+}
+
+.contact {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+.fa-brands {
+  font-size: 2rem;
+  color: white;
+  margin: 0 1rem;
+  transition: all 0.3s ease;
+}
+
+.fa-brands:hover {
+  color: antiquewhite;
+}
+
+#document{
+  color: aqua;
+  
+}
